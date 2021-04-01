@@ -1,0 +1,5 @@
+1.  Create array of objects of employee (name age gender experience and salary)
+
+2. Chnange the names are in capital letters and change the all the employee age 35
+
+3. Each employee salary multiply by 2 and add the salaries. And divide by 4. And the value is converted to string and again converted to money format. And add 7000 rupees.and split the amount to each employee
